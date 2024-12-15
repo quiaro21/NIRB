@@ -10,3 +10,12 @@ Step 7: Run the forward modelling using the NN
 Step 8: De-normalize the output of the neural networks
 Step 9: Error calculation on the 200 validation models
 Step 10: Plotting the histograms.
+
+Requires functions are located in the DRIVERS file.
+
+The required datasets, can be downloaded from:
+
+https://drive.google.com/file/d/1wizmidJ1b6Fh4n91g45ifErgXMYfcm0S/view?usp=sharing
+
+
+
